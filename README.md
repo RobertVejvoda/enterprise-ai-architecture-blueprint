@@ -4,6 +4,8 @@ A vendor-neutral reference architecture for designing, governing, and operating 
 
 The repository applies TOGAF as a pragmatic architecture method and ArchiMate as the primary modelling language. It is intended to grow incrementally through small, reviewable contributions.
 
+The [`VISION.md`](VISION.md) document defines the project's long-term direction and guiding principles.
+
 ## Purpose
 
 The blueprint helps enterprise and solution architects:
